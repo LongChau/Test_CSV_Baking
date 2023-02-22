@@ -1,0 +1,23 @@
+﻿Id,IdLog,SkillName,BuffName,SkillChance,Value1,Value2,Value3,Value4,Value5
+ScorpionKingEnergyBlade1,AMSK_TEST,EnergyBlade,EnergyBlade,60,300,0,4,0,0
+ScorpionKingEnergyBlade2,AMSK_TEST,EnergyBlade,EnergyBlade,80,300,0,4,0,0
+ScorpionKingRocket1,AMSK_TEST,Rocket,Rocket,60,250,0,4,0,0
+ScorpionKingRocket2,AMSK_TEST,Rocket,Rocket,80,250,0,4,0,0
+ScorpionKingKnockBack1,AMSK_TEST,KnockBack,KnockBackBoss,50,200,0,4,0,0
+ScorpionKingKnockBack2,AMSK_TEST,KnockBack,KnockBackBoss,40,200,0,4,0,0
+ScorpionKingFullAttack1,AMSK_TEST,AOE,FullAttack,60,400,0,4,0,0
+ScorpionKingFullAttack2,AMSK_TEST,AOE,FullAttack,50,400,0,4,0,0
+TankerShield,AMSK_TEST,TankerShield,TankerMinion,100,0,0,0,0,0
+TankerLaser_2,AMSK_TEST,,NONE,100,2,2,1,1,0
+TankerLaser_6,AMSK_TEST,,NONE,100,32,6,1,0,0
+GripperJumpAttack1,AMSK_TEST,JumpAttack,GripperJumpAttack,50,400,0,0,0,0
+GripperJumpAttack2,AMSK_TEST,JumpAttack,GripperJumpAttack,70,400,0,0,0,0
+GripperRotateAttack1,AMSK_TEST,RotateAttack,GripperRotateAttack,50,400,0,0,0,0
+GripperRotateAttack2,AMSK_TEST,RotateAttack,GripperRotateAttack,40,400,0,0,0,0
+GripperShootAOE,AMSK_TEST,GripperShootAOE,GripperShootAOE,70,400,0,0,0,0
+GripperElectricAttack,AMSK_TEST,Gripper Electric,GripperElectricAttack,70,400,0,0,0,0
+MurderStingerMeleeAttack,AMSK_TEST,MurderStingerMeleeAttack,MurderStingerMelee,10,300,0,0,0,0
+MurderStingerRangeAttack,AMSK_TEST,MurderStingerRangeAttack,MurderStingerRange,10,300,0,0,0,0
+MurderStingerPoisonAttack,AMSK_TEST,MurderStingerPoisonAttack,MurderStingerPoison,10,5,0,0,0,0
+MurderStingerSummonMinions,AMSK_TEST,MurderStingerSummon,MurderStingerSummon,10,3,4,0,0,0
+ReflectStrike,AMSK_TEST,ReflectStrike,NONE,100,5,5,0,0,0
