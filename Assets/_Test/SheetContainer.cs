@@ -13,11 +13,9 @@ namespace Test_CSV
         // property name matches with corresponding sheet name
         // for .xlsx or google sheet, it is name of the sheet tab in the workbook
         // for .csv or .json, it is name of the file
-        //public ItemSheet Items { get; private set; }
 
         // add other sheets as you extend your project
         //public CharacterSheet Characters { get; private set; }
-
-        public ConfigBossSkillSheet ConfigBossSkill { get; private set; }
+        public MasterProductConfigSheet MasterProductConfigSheet { get; private set; }
     }
 }
