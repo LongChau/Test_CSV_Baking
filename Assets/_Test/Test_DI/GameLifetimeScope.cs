@@ -11,9 +11,5 @@ namespace Test_CSV
             builder.RegisterComponentOnNewGameObject<GameManager>(Lifetime.Singleton, "GameManager").DontDestroyOnLoad();
             // builder.RegisterComponentInHierarchy<ViewController>();
         }
-
-        private void Start() {
-            DontDestroyOnLoad(this);
-        }
     }
 }
